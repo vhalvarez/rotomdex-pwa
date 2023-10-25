@@ -1,0 +1,51 @@
+{
+	"name": "RotomDex",
+	"short_name": "RotomDex",
+	"description": "¡Bienvenidos a la Pokédex! Este es el lugar para aprender todo sobre el mundo de Pokémon. Aquí encontrarás información sobre todas las especies de Pokémon, desde sus estadísticas y habilidades hasta su historia y biología.",
+	"background_color": "#fff",
+	"theme_color": "#de1627",
+	"orientation": "portrait",
+	"display": "standalone",
+	"start_url": "./?utm_source=web_app_manifest",
+	"scope": "./",
+	"lang": "es-MX",
+    "icons": [
+        
+        {
+            "src": "./img/rotomdex_1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/rotomdex_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/rotomdex_256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/rotomdex_128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/rotomdex_64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/rotomdex_32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/rotomdex_16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        }
+
+    ]
+}
